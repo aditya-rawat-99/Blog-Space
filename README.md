@@ -70,3 +70,7 @@ Not bad, right?
 You can tweek with the value paramter to see the change in the image.
 
 That's it for today.
+
+### Sources
+* [The Ancient Secrets of Computer Vision](https://www.youtube.com/watch?v=hpqrDUuk7HY&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=3)
+
