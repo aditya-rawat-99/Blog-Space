@@ -64,3 +64,9 @@ img = increase_intensity(hsv)
 showImage(img, "img")
 ```
 ![TestImage](https://raw.githubusercontent.com/aditya-rawat-99/Blog-Space/master/Beagle2.jpg)
+
+Not bad, right? 
+
+You can tweek with the value paramter to see the change in the image.
+
+That's it for today.
