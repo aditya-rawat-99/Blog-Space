@@ -12,7 +12,7 @@ Well, like RBG, HSV is also a color model that can sometimes be used in place of
 
 So, to keep this mini blog "mini", let's dive into code
 
-*prerequisite: You need to have __python__[https://www.python.org/] installed along with __OpenCV__[https://opencv.org/] and __numpy__[https://numpy.org/]*
+*prerequisite: You need to have [python](https://www.python.org/) installed along with [OpenCV](https://opencv.org/) and [numpy](https://numpy.org/)*
 
 First we will import the necessary libraries
 
